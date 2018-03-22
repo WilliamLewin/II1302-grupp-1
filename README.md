@@ -8,11 +8,17 @@ Get Github for Mac or Github for Windows and pull the repo.
 2. Make new branch from master, give it a good name, for example TA01-NewFunction
 
   KA - Kund- och kravansvarig
+
   PL - Projektledare
+
   TA - Test-ansvarig
+
   AT - Arkitekt
+
   KU - Konstruktions- och utvecklingsansvarig
+  
   GA - Gitansvarig
+
 3. Commit.
 4. Create pull-request
 5. Git responsible approve pull-request
