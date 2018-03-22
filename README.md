@@ -6,9 +6,9 @@ Get Github for Mac or Github for Windows and pull the repo.
 ## Workflow
 1. Know your task
 2. Make new branch from master, give it a good name, for example TA01-NewFunction
-3. Commit
-5.Create pull-request
-6. Git responsible approve pull-request
+3. Commit.
+4. Create pull-request
+5. Git responsible approve pull-request
 
 ## Copyright & License
 
