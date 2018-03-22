@@ -6,6 +6,7 @@ Get Github for Mac or Github for Windows and pull the repo.
 ## Workflow
 1. Know your task
 2. Make new branch from master, give it a good name, for example TA01-NewFunction
+
   KA - Kund- och kravansvarig
   PL - Projektledare
   TA - Test-ansvarig
